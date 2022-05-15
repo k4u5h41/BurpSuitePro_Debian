@@ -18,7 +18,7 @@ chmod +x install.sh
 ```
 sudo ./install.sh
 ```
-Setting for the first time :
+Setting up for the first time :
 
 1. Open first Terminal : run ` ligen` command
 2. Open Second Terminal : run `burp` command

@@ -18,3 +18,8 @@ chmod +x install.sh
 ```
 sudo ./install.sh
 ```
+Setting for the first time :
+
+1. open first Terminal : run ` ligen` command
+2. Open Second Terminal : run `burp` command
+3. Now activate the burp and create a new project

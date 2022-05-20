@@ -1,4 +1,4 @@
-# BurpSuitePro
+# BurpSuitePro_Debian
 
 ```
 git clone https://github.com/k4u5h41/BurpSuitePro.git

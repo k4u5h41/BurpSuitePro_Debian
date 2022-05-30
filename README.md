@@ -10,7 +10,7 @@ download Burpsuite Pro Jar file from
 ```
 https://portswigger.net/burp/releases#professional 
 ```
-add that jar file to `BurpSuitePro/` folder
+add that jar file to `BurpSuitePro_Debian/` folder
 
 ```
 chmod +x install.sh
